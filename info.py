@@ -3,7 +3,7 @@ SESSION = 'LuciferMoringstar_Robot'
 USER_SESSION = 'User_Bot'
 API_ID = 10651048
 API_HASH = '37775aca7d11f450ecde375baac17fe7'
-BOT_TOKEN = '5569567626:AAG4fEKnv998AZcoNjdt0WTAPLW56r8UdHc'
+BOT_TOKEN = '5743646572:AAEn0QWcJtEMN3EbRRj_rNoshdhRZfqrKb8'
 USERBOT_STRING_SESSION = 'LuciferMoringstar_Robot'
 
 # Bot settings
