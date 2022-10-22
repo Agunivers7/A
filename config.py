@@ -1,8 +1,13 @@
+import re
+from os import environ
+
+
 # Bot information
 SESSION = 'LuciferMoringstar_Robot'
 USER_SESSION = 'User_Bot'
-API_HASH = '37775aca7d11f450ecde375baac17fe7'
-BOT_TOKEN = '5743646572:AAEn0QWcJtEMN3EbRRj_rNoshdhRZfqrKb8'
+API_ID = int(environ.get('API_ID', '10651048'))
+API_HASH = environ.get('API_HASH', '37775aca7d11f450ecde375baac17fe7')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5442082144:AAH5nthnSeVlqEHZPUYHd3GPj7EzhHETETg')
 USERBOT_STRING_SESSION = 'LuciferMoringstar_Robot'
 
 # Bot settings
