@@ -18,6 +18,10 @@
 * Added Force subscribe (Only channel subscribes can use the bot)
 * Ability to restrict groups(AUTH_GROUPS)
 
+Code 2:-
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+
 #### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agunivers7/AutoFilterBotV3)
