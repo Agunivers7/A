@@ -20,7 +20,7 @@
 
 Code 2:-
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/main&branch=name&name=servicename)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/bbb&branch=Master&name=servicename)
 
 #### Deploy To Heroku
 
